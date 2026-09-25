@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.venltsq.cn/sitemap.xml
